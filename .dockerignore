@@ -1,4 +1,5 @@
 .devcontainer
 .mypy_cache
 .vscode
+.git
 .gitignore
